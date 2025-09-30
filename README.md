@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there 👋 My Name is Heechan Yang!
 <!--
 **HGR-179/HGR-179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
