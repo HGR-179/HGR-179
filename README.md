@@ -1,4 +1,6 @@
 ## Hi there 👋 My Name is Heechan Yang!
+
+## I am a student likes to develop codes and build 3d models!
 <!--
 **HGR-179/HGR-179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
